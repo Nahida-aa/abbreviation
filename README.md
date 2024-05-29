@@ -323,3 +323,28 @@ n.注视者;看守者;观察者;值班员;守夜人
 Ψ (Psi)：\Psi
 Ω (Omega)：\Omega
 ```
+
+# chemistry
+
+## Aa
+
+aq
+
+```md
+aqueous solution
+abbr.水溶液
+```
+
+# biologic
+
+## Aa
+
+## Bb
+
+## Cc
+
+cell
+
+```md
+n.细胞
+```
