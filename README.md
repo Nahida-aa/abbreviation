@@ -169,7 +169,7 @@ net.关闭;关出去;排外
 
 ## l
 
-## m
+## Mm
 
 migrations
 
@@ -177,11 +177,28 @@ migrations
 n.迁移;移民;移动
 ```
 
+mine
+
+```md
+pron.我的
+v.开采;挖掘
+n.矿
+net.我的;矿山;地雷
+```
+
 ## n
 
 ## o
 
-## p
+## Pp
+
+pron
+
+```
+abbr.代名词的(pronminal);
+     代词(pronoun);
+     发音(pronunciation)
+```
 
 ## q
 
@@ -234,9 +251,17 @@ n.舞台;(发展的)阶段;[地](底层的)阶
 net.暂存;阶段式;阶段性
 ```
 
-## t
+## Tt
 
-## U u
+total
+
+```md
+n.总数;合计
+adj.总的;完全的
+v.合计;总计
+```
+
+## Uu
 
 ### un
 
@@ -264,6 +289,14 @@ n.注视者;看守者;观察者;值班员;守夜人
 ## x
 
 ## y
+
+yours
+
+```md
+pron.你(们)的
+adj.你(们)的
+
+```
 
 ## z
 
@@ -328,12 +361,86 @@ n.注视者;看守者;观察者;值班员;守夜人
 
 ## Aa
 
+A
+
+```md
+abbr.吸光度
+```
+
 aq
 
 ```md
 aqueous solution
 abbr.水溶液
 ```
+
+## Bb
+
+## Cc
+
+## Dd
+
+## Ee
+
+## Ff
+
+## Gg
+
+gas
+
+```md
+n.气体
+```
+
+## Hh
+
+## Ii
+
+## Jj
+
+## Kk
+
+## Ll
+
+liquid
+
+```md
+n.液体
+```
+
+## Mm
+
+## Nn
+
+## Oo
+
+## Pp
+
+## Qq
+
+## Rr
+
+## Ss
+
+solid
+
+```md
+n.固体
+```
+
+## Tt
+
+## Uu
+
+## Vv
+
+## Ww
+
+## Xx
+
+## Yy
+
+## Zz
 
 # biologic
 
