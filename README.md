@@ -1,8 +1,8 @@
 # abbreviation
 
-# english
+## english
 
-## Aa
+### Aa
 
 abbreviation
 
@@ -29,7 +29,7 @@ ahead
 adv.提前;前面;领先;未来
 ```
 
-## Bb
+### Bb
 
 branch
 
@@ -39,7 +39,7 @@ v.分开;分岔
 net.分公司;分枝;分部
 ```
 
-## Cc
+### Cc
 
 change
 
@@ -75,9 +75,9 @@ n.社区;团体;共同体
 net.社会;社团;社区
 ```
 
-## Dd
+### Dd
 
-### de
+#### de
 
 default
 
@@ -113,7 +113,7 @@ n.被丢弃的n
 net.放弃;遗弃;舍弃
 ```
 
-## Ee
+### Ee
 
 environment
 
@@ -138,9 +138,9 @@ v.扩展
 net.延伸
 ```
 
-## Ff
+### Ff
 
-## G g
+### G g
 
 Gateway
 
@@ -148,11 +148,11 @@ Gateway
 n.网关
 ```
 
-## h
+### h
 
-## I i
+### I i
 
-### in
+#### in
 
 include
 
@@ -163,13 +163,13 @@ clude
 net.关闭;关出去;排外
 ```
 
-## j
+### j
 
-## k
+### k
 
-## l
+### l
 
-## Mm
+### Mm
 
 migrations
 
@@ -186,25 +186,25 @@ n.矿
 net.我的;矿山;地雷
 ```
 
-## n
+### n
 
-## o
+### o
 
-## Pp
+### Pp
 
 pron
 
-```
+```md
 abbr.代名词的(pronminal);
      代词(pronoun);
      发音(pronunciation)
 ```
 
-## q
+### q
 
-## R r
+### R r
 
-### re
+#### re
 
 required
 
@@ -235,7 +235,7 @@ n.恢复
 net.检索;收回;重新得到
 ```
 
-## S s
+### S s
 
 specified
 
@@ -251,7 +251,7 @@ n.舞台;(发展的)阶段;[地](底层的)阶
 net.暂存;阶段式;阶段性
 ```
 
-## Tt
+### Tt
 
 total
 
@@ -261,9 +261,9 @@ adj.总的;完全的
 v.合计;总计
 ```
 
-## Uu
+### Uu
 
-### un
+#### un
 
 untracked
 
@@ -276,9 +276,9 @@ n.轨迹
 net.履带式;有履带的;跟踪的
 ```
 
-## v
+### v
 
-## W w
+### W w
 
 watcher
 
@@ -286,9 +286,9 @@ watcher
 n.注视者;看守者;观察者;值班员;守夜人
 ```
 
-## x
+### x
 
-## y
+### y
 
 yours
 
@@ -298,9 +298,9 @@ adj.你(们)的
 
 ```
 
-## z
+### z
 
-# xila
+## xila
 
 ```sh
 小写的希腊字母：
@@ -355,11 +355,17 @@ adj.你(们)的
 Χ (Chi)：\Chi
 Ψ (Psi)：\Psi
 Ω (Omega)：\Omega
+
+<= \leq
+>= \geq
+!= \neq
 ```
 
-# chemistry
+### latex
 
-## Aa
+## chemistry
+
+### Aa in chemistry
 
 A
 
@@ -374,17 +380,17 @@ aqueous solution
 abbr.水溶液
 ```
 
-## Bb
+### Bb
 
-## Cc
+### Cc
 
-## Dd
+### Dd
 
-## Ee
+### Ee
 
-## Ff
+### Ff
 
-## Gg
+### Gg
 
 gas
 
@@ -392,15 +398,15 @@ gas
 n.气体
 ```
 
-## Hh
+### Hh
 
-## Ii
+### Ii
 
-## Jj
+### Jj
 
-## Kk
+### Kk
 
-## Ll
+### Ll
 
 liquid
 
@@ -408,19 +414,19 @@ liquid
 n.液体
 ```
 
-## Mm
+### Mm
 
-## Nn
+### Nn
 
-## Oo
+### Oo
 
-## Pp
+### Pp
 
-## Qq
+### Qq
 
-## Rr
+### Rr
 
-## Ss
+### Ss
 
 solid
 
@@ -428,27 +434,27 @@ solid
 n.固体
 ```
 
-## Tt
+### Tt
 
-## Uu
+### Uu
 
-## Vv
+### Vv
 
-## Ww
+### Ww
 
-## Xx
+### Xx
 
-## Yy
+### Yy
 
-## Zz
+### Zz
 
-# biologic
+## biologic
 
-## Aa
+### Aa
 
-## Bb
+### Bb
 
-## Cc
+### Cc
 
 cell
 
